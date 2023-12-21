@@ -1,0 +1,28 @@
+.Quote{
+    min-height: 100vh !important;
+}
+.Quote h2{
+position: relative !important;
+font-size: 80px !important;
+font-weight: 700 !important;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+z-index: 9999 !important;
+}
+.layer {
+    position: absolute !important;
+    top: 33%;
+    text-align: center;
+    width: 100%;
+    
+}
+.layer h2{
+    font-size: 100px !important;
+    font-weight: 700 !important;
+    color: beige !important;
+}
+#Quote{
+    height: 50px !important;
+}
+#Aouthor{
+    height: 25px !important;
+}
